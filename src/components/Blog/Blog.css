@@ -1,0 +1,35 @@
+.cover img {
+  width: 1000px;
+  height: 500px;
+}
+
+.profile-info {
+  display: grid;
+  grid-template-columns: 1fr 9fr 2fr;
+  align-items: center;
+}
+
+.profile img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+h1,
+h4,
+p {
+  margin: 0;
+  padding: 0px;
+}
+
+.time-zone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.tag {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}

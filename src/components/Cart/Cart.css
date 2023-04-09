@@ -1,0 +1,32 @@
+.cart-container {
+  position: sticky;
+  top: 0;
+  background-color: bisque;
+}
+.show-time {
+  background-color: gainsboro;
+  color: blueviolet;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid blueviolet;
+}
+
+.book-mark-length {
+  background-color: gainsboro;
+  color: blueviolet;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+  border: 1px solid blueviolet;
+}
+.single-booK-mark-container {
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  h3 {
+    margin: 0;
+    padding: 0;
+  }
+  
